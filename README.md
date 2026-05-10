@@ -1,3 +1,5 @@
+[![Maintained by Avalux](https://img.shields.io/badge/Maintained%20by-Avalux.io-3b82f6?style=flat-square)](https://avalux.io)
+
 # n8n Self-Hosted Toolkit
 
 > Production-ready Docker setup for self-hosted n8n — the open-source Zapier/Make alternative — with hardened defaults, ready-made SMB ops workflow templates, and zero-trust networking. Built and maintained by [Avalux](https://avalux.io) — an AI automation agency that ships custom integrations for SMB freight, e-commerce, and home services.
